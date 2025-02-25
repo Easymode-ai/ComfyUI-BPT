@@ -22,7 +22,7 @@ in/out Trimesh
 
 [ComfyUI ShadowR](https://github.com/Easymode-ai/ComfyUI-ShadowR)
 
-\* Natural drop in support with the `Trimesh` interface in the HY3D mesh pipeline
+\* Fully Compatible
 
 \*\* Could be used on the `.glb` from `Trellis` with the `Trimesh load` / `Trimesh Save` interfaces supplied by this package
   
