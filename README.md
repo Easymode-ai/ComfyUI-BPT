@@ -1,5 +1,5 @@
 # ComfyUI-BPT
-Comfyui [BPT](https://github.com/whaohan/bpt) Wrapper with `Trimesh` input/output connections
+Comfyui [BPT](https://github.com/whaohan/bpt) Wrapper (Trimesh in/out connections)
 
 ![image](workflow/workflow.png)
 ![image](workflow/ref1.png)
