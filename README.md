@@ -18,7 +18,9 @@ cd ComfyUI\custom_nodes\ComfyUI-BPT
 
 # Usage
 
-in/out Trimesh
+Connect BPT node to in/out trimesh connections.
+
+A workflow has been provided for example of use.
 
 # Related Interesting Projects
 
