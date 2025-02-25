@@ -1,6 +1,9 @@
 # ComfyUI-BPT
 Comfyui [BPT](https://github.com/whaohan/bpt) Wrapper with `Trimesh` input/output connections
 
+![image](workflow/workflow.png)
+![image](workflow/ref1.png)
+
 # Installation
 
 Download [Weights](https://huggingface.co/whaohan/bpt/blob/refs%2Fpr%2F1/bpt-8-16-500m.pt) and place in `ComfyUI\models\BPT`
@@ -22,7 +25,7 @@ in/out Trimesh
 
 [ComfyUI ShadowR](https://github.com/Easymode-ai/ComfyUI-ShadowR)
 
-\* Fully Compatible
+\* Fully Compatible with ComfyUI-BPT
 
 \*\* Could be used on the `.glb` from `Trellis` with the `Trimesh load` / `Trimesh Save` interfaces supplied by this package
   
