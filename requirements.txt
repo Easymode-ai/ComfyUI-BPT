@@ -29,3 +29,4 @@ numpy
 point-cloud-utils
 networkx==3.4.2
 deepspeed==0.16.3
+pyfqmr
