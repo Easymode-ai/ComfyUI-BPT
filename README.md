@@ -6,7 +6,8 @@ Comfyui [BPT](https://github.com/whaohan/bpt) Wrapper (Trimesh in/out connection
 
 # Installation
 
-Download [Weights](https://huggingface.co/whaohan/bpt/blob/refs%2Fpr%2F1/bpt-8-16-500m.pt) and [shapevae256.yaml](https://raw.githubusercontent.com/Easymode-ai/ComfyUI-BPT/refs/heads/main/bpt/shapevae-256.yaml) and place in `ComfyUI\models\BPT`
+Download [Weights](https://huggingface.co/whaohan/bpt/blob/refs%2Fpr%2F1/bpt-8-16-500m.pt) and place in `ComfyUI\models\BPT\`
+[shapevae256.yaml](https://raw.githubusercontent.com/Easymode-ai/ComfyUI-BPT/refs/heads/main/bpt/shapevae-256.yaml) and place in `custom_nodes\ComfyUI-BPT\bpt\`
 
 
 
